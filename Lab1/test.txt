@@ -1,0 +1,10 @@
+ Volume in drive H is DyskD
+ Volume Serial Number is B0A3-91EB
+
+ Directory of h:\proj_www\Prog_www\Lab1
+
+10.10.2018  11:27    <DIR>          .
+10.10.2018  11:27    <DIR>          ..
+10.10.2018  11:27                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  208ÿ974ÿ716ÿ928 bytes free
